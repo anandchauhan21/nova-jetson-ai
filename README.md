@@ -80,9 +80,7 @@ Speaker
 
 ## Voice Assistant
 
-```text
-
-```
+![](https://github.com/anandchauhan21/nova-jetson-ai/blob/main/IMG/voice.png)
 
 ## Jetson Setup
 
